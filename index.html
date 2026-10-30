@@ -83,11 +83,11 @@ tr.shown td.details-control {
 	fill-opacity: .7;
 }
 .pointFullVacate{
-	fill: #942323;
+	fill: #662245;
 	fill-opacity: .7;
 }
 .pointPartVacate{
-	fill: #EA9135;
+	fill: #EB54AE;
 	fill-opacity: .7;
 }
 .tooltip {
@@ -165,7 +165,7 @@ tr[role="row"]:hover td {
   top: 3px;
   height: 12px;
   width: 12px;
-  background-color: #942323;
+  background-color: #662245;
   border-radius: 50%;
   display: inline-block;
 }
@@ -174,7 +174,7 @@ tr[role="row"]:hover td {
   top: 3px;
   height: 12px;
   width: 12px;
-  background-color: #EA9135;
+  background-color: #EB54AE;
   border-radius: 50%;
   display: inline-block;
 }
@@ -659,7 +659,7 @@ var width = $("#map").width(),
 			d3.select(this).style("fill",previousColor);
 			d3.select(this).style( "fill-opacity",0.7);
 		});		
-		pointsUpd.attr('r', 5 / proj.scale);
+		pointsUpd.attr('r', 6 / proj.scale);
 	});
 
 	//d3.csv("https://raw.githubusercontent.com/NYCDOB/SWOs_Issued_Rescinded/gh-pages/data/SWOs_Issued_Rescinded_v3.csv",function(data){
@@ -934,7 +934,7 @@ var width = $("#map").width(),
 				if([d.BIN] == r2)
 					{return "red"}
 				else
-					{return "#942323"};
+					{return "#662245"};
 			})
 			
 		d3.selectAll(".pointPartVacate")
@@ -942,7 +942,7 @@ var width = $("#map").width(),
 				if([d.BIN] == r2)
 					{return "red"}
 				else
-					{return "#EA9135"};
+					{return "#EB54AE"};
 			})
 	}
 
