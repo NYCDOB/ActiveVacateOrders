@@ -555,7 +555,7 @@ $(document).ready(function(){
 	var yyyy = today.getFullYear();
 	today = mm + '/' + dd + '/' + yyyy;	
 	d3.select("#today").html(today);
-	
+	var numberFormat = d3.format(",.0f");
 	var twoYrsAge = new Date();
 	var yearMinusTwo = yyyy-2;
 	twoYrsAge = mm + '/' + dd + '/' + yearMinusTwo;
@@ -686,7 +686,7 @@ var width = $("#map").width(),
 			}
 		})
 
-		d3.select("#vacateCnt").html(filterActive.length);
+		d3.select("#vacateCnt").html(numberFormat(filterActive.length));
 		d3.selectAll(".pointFullVacate").style("display", "block");
 		d3.selectAll(".pointPartVacate").style("display", "block");
 		$("#fltrBoro").show();
