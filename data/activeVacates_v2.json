@@ -1,5 +1,19 @@
 [
  {
+	"Borough Name": "Brooklyn",
+	"Complaint Number": "3A90437",
+	"BIN": 3029613,
+	"Disposition Code": "Y3",
+	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/22/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 308,
+	"Address": "487 LINCOLN PLACE",
+	"Latitude": 40.67237,
+	"Longitude": -73.96033
+ },
+ {
 	"Borough Name": "Bronx",
 	"Complaint Number": "2454728",
 	"BIN": 2003909,
