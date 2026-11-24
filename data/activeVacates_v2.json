@@ -1,6 +1,104 @@
 [
  {
 	"Borough Name": "Brooklyn",
+	"Complaint Number": "3A90688",
+	"BIN": 3026037,
+	"Disposition Code": "Y1",
+	"Disposition Code Description": "FULL VACATE ORDER ISSUED F ",
+	"Disposition Category": "Full Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 306,
+	"Address": "573 10 STREET",
+	"Latitude": 40.66595,
+	"Longitude": -73.98087
+ },
+ {
+	"Borough Name": "Brooklyn",
+	"Complaint Number": "3A90784",
+	"BIN": 3020326,
+	"Disposition Code": "Y3",
+	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 306,
+	"Address": "667 CARROLL STREET",
+	"Latitude": 40.67456,
+	"Longitude": -73.97919
+ },
+ {
+	"Borough Name": "Brooklyn",
+	"Complaint Number": "3A10819",
+	"BIN": 3329383,
+	"Disposition Code": "Y1",
+	"Disposition Code Description": "FULL VACATE ORDER ISSUED F ",
+	"Disposition Category": "Full Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 315,
+	"Address": "248 AVE X",
+	"Latitude": 40.58991,
+	"Longitude": -73.97387
+ },
+ {
+	"Borough Name": "Manhattan",
+	"Complaint Number": "1740614",
+	"BIN": 1084957,
+	"Disposition Code": "Y4",
+	"Disposition Code Description": "VACATE ORDER PARTIALLY RESCINDED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 102,
+	"Address": "516 HUDSON ST",
+	"Latitude": 40.73356,
+	"Longitude": -74.00598
+ },
+ {
+	"Borough Name": "Manhattan",
+	"Complaint Number": "1742574",
+	"BIN": 1056399,
+	"Disposition Code": "Y4",
+	"Disposition Code Description": "VACATE ORDER PARTIALLY RESCINDED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 107,
+	"Address": "201 WEST 98 STREET",
+	"Latitude": 40.79557,
+	"Longitude": -73.96964
+ },
+ {
+	"Borough Name": "Queens",
+	"Complaint Number": "4687128",
+	"BIN": 4280096,
+	"Disposition Code": "Y3",
+	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 412,
+	"Address": "180-13 140 AVENUE",
+	"Latitude": 40.67194,
+	"Longitude": -73.7634
+ },
+ {
+	"Borough Name": "Staten Island",
+	"Complaint Number": "5138351",
+	"BIN": 5063694,
+	"Disposition Code": "Y3",
+	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
+	"Disposition Category": "Partial Vacate",
+	"Last Disposition Date": "11/23/2026",
+	"Last Disposition Year": 2026,
+	"Community Board": 503,
+	"Address": "347 FAIRBANKS AVENUE",
+	"Latitude": 40.55689,
+	"Longitude": -74.12329
+ },
+ {
+	"Borough Name": "Brooklyn",
 	"Complaint Number": "3A90437",
 	"BIN": 3029613,
 	"Disposition Code": "Y3",
@@ -1960,20 +2058,6 @@
 	"Longitude": -73.87653
  },
  {
-	"Borough Name": "Manhattan",
-	"Complaint Number": "1740614",
-	"BIN": 1084957,
-	"Disposition Code": "Y1",
-	"Disposition Code Description": "FULL VACATE ORDER ISSUED F ",
-	"Disposition Category": "Full Vacate",
-	"Last Disposition Date": "10/31/2026",
-	"Last Disposition Year": 2026,
-	"Community Board": 102,
-	"Address": "516 HUDSON ST",
-	"Latitude": 40.73356,
-	"Longitude": -74.00598
- },
- {
 	"Borough Name": "Bronx",
 	"Complaint Number": "2408248",
 	"BIN": 2009786,
@@ -3722,20 +3806,6 @@
 	"Address": "1371 ST JOHNS PLACE",
 	"Latitude": 40.67097,
 	"Longitude": -73.93282
- },
- {
-	"Borough Name": "Brooklyn",
-	"Complaint Number": "3A10819",
-	"BIN": 3329383,
-	"Disposition Code": "Y1",
-	"Disposition Code Description": "FULL VACATE ORDER ISSUED F ",
-	"Disposition Category": "Full Vacate",
-	"Last Disposition Date": "10/6/2026",
-	"Last Disposition Year": 2026,
-	"Community Board": 315,
-	"Address": "248 AVE X",
-	"Latitude": 40.58991,
-	"Longitude": -73.97387
  },
  {
 	"Borough Name": "Manhattan",
@@ -10862,20 +10932,6 @@
 	"Address": "109-57 LIVERPOOL STREET",
 	"Latitude": 40.68945,
 	"Longitude": -73.79845
- },
- {
-	"Borough Name": "Brooklyn",
-	"Complaint Number": "3A69743",
-	"BIN": 3253138,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "7/4/2026",
-	"Last Disposition Year": 2026,
-	"Community Board": 314,
-	"Address": "675 RUGBY ROAD",
-	"Latitude": 40.63289,
-	"Longitude": -73.9635
  },
  {
 	"Borough Name": "Brooklyn",
@@ -21614,20 +21670,6 @@
 	"Address": "137-19 FRANKTON STREET",
 	"Latitude": 40.65882,
 	"Longitude": -73.72704
- },
- {
-	"Borough Name": "Bronx",
-	"Complaint Number": "2432820",
-	"BIN": 2093876,
-	"Disposition Code": "Y4",
-	"Disposition Code Description": "VACATE ORDER PARTIALLY RESCINDED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "2/9/2026",
-	"Last Disposition Year": 2026,
-	"Community Board": 212,
-	"Address": "3475 BIVONA STREET",
-	"Latitude": 40.88232,
-	"Longitude": -73.83402
  },
  {
 	"Borough Name": "Brooklyn",
@@ -44128,20 +44170,6 @@
 	"Longitude": -73.86856
  },
  {
-	"Borough Name": "Bronx",
-	"Complaint Number": "2405024",
-	"BIN": 2056839,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "1/7/2025",
-	"Last Disposition Year": 2025,
-	"Community Board": 212,
-	"Address": "640 MAGENTA STREET",
-	"Latitude": 40.87512,
-	"Longitude": -73.86938
- },
- {
 	"Borough Name": "Staten Island",
 	"Complaint Number": "5188098",
 	"BIN": 5088906,
@@ -44742,20 +44770,6 @@
 	"Address": "134-12 JAMAICA AVENUE",
 	"Latitude": 40.70219,
 	"Longitude": -73.81812
- },
- {
-	"Borough Name": "Queens",
-	"Complaint Number": "4976686",
-	"BIN": 4183412,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "12/23/2024",
-	"Last Disposition Year": 2024,
-	"Community Board": 409,
-	"Address": "78-19 87 AVENUE",
-	"Latitude": 40.69148,
-	"Longitude": -73.86295
  },
  {
 	"Borough Name": "Queens",
@@ -56054,20 +56068,6 @@
 	"Address": "109-34 CENTREVILLE STREET",
 	"Latitude": 40.67802,
 	"Longitude": -73.83498
- },
- {
-	"Borough Name": "Queens",
-	"Complaint Number": "4687128",
-	"BIN": 4280096,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "5/31/2024",
-	"Last Disposition Year": 2024,
-	"Community Board": 412,
-	"Address": "180-13 140 AVENUE",
-	"Latitude": 40.67194,
-	"Longitude": -73.7634
  },
  {
 	"Borough Name": "Queens",
@@ -87204,20 +87204,6 @@
 	"Address": "482 EMERALD STREET",
 	"Latitude": 40.67082,
 	"Longitude": -73.85962
- },
- {
-	"Borough Name": "Manhattan",
-	"Complaint Number": "1643581",
-	"BIN": 1082505,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "8/8/2023",
-	"Last Disposition Year": 2023,
-	"Community Board": 103,
-	"Address": "50 DELANCEY STREET",
-	"Latitude": 40.71984,
-	"Longitude": -73.99129
  },
  {
 	"Borough Name": "Manhattan",
@@ -163588,20 +163574,6 @@
 	"Address": "42 MALCOLM X BOULEVARD",
 	"Latitude": 40.69267,
 	"Longitude": -73.93127
- },
- {
-	"Borough Name": "Staten Island",
-	"Complaint Number": "5138351",
-	"BIN": 5063694,
-	"Disposition Code": "Y3",
-	"Disposition Code Description": "PARTIAL VACATE ORDER ISSUED P ",
-	"Disposition Category": "Partial Vacate",
-	"Last Disposition Date": "1/24/2019",
-	"Last Disposition Year": 2019,
-	"Community Board": 503,
-	"Address": "347 FAIRBANKS AVENUE",
-	"Latitude": 40.55689,
-	"Longitude": -74.12329
  },
  {
 	"Borough Name": "Staten Island",
